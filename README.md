@@ -23,3 +23,7 @@ La capture ci-dessous vous présente quelques utilisations possibles :
 ## Pourquoi le "Faussaire" ?
 
 Je voulais rester dans l'esprit Windev en ce qui concerne la francisation et donner une identité forte à ce projet.
+
+## Compatibilité
+
+Le composant est généré avec Windev Express 26 (je n'ai pas de licence Windev... À bon entendeur :-))
