@@ -1,5 +1,7 @@
 # Le faussaire
 
+![Le logo du Faussaire](https://github.com/TeddyBear06/windev-faussaire/blob/13f872da95837883f7390f5f823586891eeaba7e/Documents/le_faussaire_logo.png)
+
 Le Faussaire est un composant Windev utile pour générer des données (noms, prénoms, IBAN, etc...) pour remplir vos applications pendant les phases de développement et de test. Vous pouvez également l'utiliser pour faire des tests de resistance au stress de vos applications.
 
 Le composant est largement inspiré du package [fzaninotto/Faker](https://github.com/fzaninotto/Faker).
