@@ -29,3 +29,7 @@ Je voulais rester dans l'esprit Windev en ce qui concerne la francisation et don
 ## Compatibilité
 
 Le composant est généré avec Windev Express 26 (je n'ai pas de licence Windev... À bon entendeur :-))
+
+## Logo
+
+Merci à [OpenClipart-Vectors](https://pixabay.com/vectors/comedy-funny-glasses-mask-carnival-156776/)
