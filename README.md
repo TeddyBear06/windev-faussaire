@@ -6,7 +6,7 @@ Le composant est largement inspiré du package [fzaninotto/Faker](https://github
 
 ## Comment l'utiliser ?
 
-1. Téléchargez la dernière version du composant dans la [page de Releases de ce projet](https://github.com/TeddyBear06/windev-faussaire/releases)
+1. Téléchargez la dernière version du composant (Faussaire.zip) dans la [page de Releases de ce projet](https://github.com/TeddyBear06/windev-faussaire/releases)
 2. Ajoutez le composant à votre projet Windev [documentation officielle](https://doc.pcsoft.fr/?2014006)
 3. Vous pouvez utiliser les méthodes du Faussaire dans votre projet !
 
