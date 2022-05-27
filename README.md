@@ -39,6 +39,10 @@ Le composant est généré avec WINDEV® Express 26 (je n'ai pas de licence WIND
 
 Si vous utilisez une version commerciale de WINDEV®, vous devrez récupérer le code de ce composant et le générer à nouveau avec votre WINDEV® commercial.
 
+## Contributions
+
+Les contributions sont les bienvenues du moment qu'elles respectent l'esprit du projet.
+
 ## Logo
 
 Merci à [OpenClipart-Vectors](https://pixabay.com/vectors/comedy-funny-glasses-mask-carnival-156776/)
