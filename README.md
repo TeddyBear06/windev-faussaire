@@ -26,8 +26,8 @@ FIN
 
 La capture ci-dessous vous présente quelques utilisations possibles :
 
-![Utilisations possibles du Faussaire](https://github.com/TeddyBear06/windev-faussaire/blob/7f437ffe5bd1f7678ffdf8d03c91d5906134592d/Documents/Screenshot_70.png)
-![Utilisations possibles du Faussaire](https://github.com/TeddyBear06/windev-faussaire/blob/7f437ffe5bd1f7678ffdf8d03c91d5906134592d/Documents/Screenshot_71.png)
+![Utilisations possibles du Faussaire](Documents/Screenshot_70.png)
+![Utilisations possibles du Faussaire](Documents/Screenshot_71.png)
 
 ## Pourquoi le "Faussaire" ?
 
