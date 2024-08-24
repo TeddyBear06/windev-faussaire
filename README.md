@@ -6,7 +6,7 @@
 
 Le Faussaire est un composant WINDEV® utile pour générer des données (noms, prénoms, IBAN, etc...) pour remplir vos applications pendant les phases de développement et de test. Vous pouvez également l'utiliser pour faire des tests de resistance au stress de vos applications.
 
-Le composant est - très - largement inspiré du package [fzaninotto/Faker](https://github.com/fzaninotto/Faker).
+Le composant est - très - largement inspiré du package [fzaninotto/Faker](https://github.com/fzaninotto/Faker) que j'adore et que j'utilise depuis des années.
 
 ## Comment l'utiliser ?
 
@@ -14,7 +14,7 @@ Le composant est - très - largement inspiré du package [fzaninotto/Faker](http
 2. Ajoutez le composant à votre projet WINDEV® [documentation officielle](https://doc.pcsoft.fr/?2014006)
 3. Vous instanciez un Faussaire et voilà !
 
-Exemple (pour générer des personas) :
+Exemple (pour générer des [personas](https://fr.wikipedia.org/wiki/Persona)) :
 
 ```
 clFaussaire est un Faussaire
@@ -40,7 +40,7 @@ POUR i = 1 À 20
 FIN
 ```
 
-La capture ci-dessous vous présente une utilisation possible (mais la limite, c'est votre imagination ;-)) :
+La capture ci-dessous vous présente une utilisation possible (mais la limite, c'est votre imagination) :
 
 ![Créer des personas](Documents/liste_personas.png)
 
