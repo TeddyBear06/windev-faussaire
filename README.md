@@ -24,9 +24,10 @@ POUR nIndex = 1 À 10000
 FIN
 ```
 
-La capture ci-dessous vous présente quelques utilisations possibles :
+Les captures ci-dessous vous présentent quelques utilisations possibles :
 
-![Utilisations possibles du Faussaire](Documents/Screenshot_70.png)
+![Générer une liste](Documents/Screenshot_70.png)
+![Créer un persona](Documents/Screenshot_71.png)
 
 ## Pourquoi le "Faussaire" ?
 
