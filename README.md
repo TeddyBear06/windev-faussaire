@@ -1,4 +1,4 @@
-# Le faussaire
+# Le Faussaire
 
 ![Le logo du Faussaire](https://github.com/TeddyBear06/windev-faussaire/blob/13f872da95837883f7390f5f823586891eeaba7e/Documents/le_faussaire_logo.png)
 
