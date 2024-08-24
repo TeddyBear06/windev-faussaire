@@ -4,7 +4,7 @@
 
 > Ce composant n'est pas un produit officiel WINDEV®. Les marques "PC SOFT" et "WINDEV" sont des marques déposées de la société PC SOFT.
 
-Le Faussaire est un composant WINDEV® utile pour générer des données (noms, prénoms, IBAN, etc...) pour remplir vos applications pendant les phases de développement et de test. Vous pouvez également l'utiliser pour faire des tests de resistance au stress de vos applications.
+Le Faussaire est un composant WINDEV® utile pour générer des données (noms, prénoms, IBAN, etc...) pour remplir vos applications pendant les phases de développement et de test. Vous pouvez également l'utiliser pour faire des tests de résistance au stress de vos applications.
 
 Le composant est - très - largement inspiré du package [fzaninotto/Faker](https://github.com/fzaninotto/Faker) que j'adore et que j'utilise depuis des années.
 
