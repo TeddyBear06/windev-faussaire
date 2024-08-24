@@ -14,20 +14,35 @@ Le composant est - très - largement inspiré du package [fzaninotto/Faker](http
 2. Ajoutez le composant à votre projet WINDEV® [documentation officielle](https://doc.pcsoft.fr/?2014006)
 3. Vous instanciez un Faussaire et voilà !
 
-Exemple :
+Exemple (pour générer des personas) :
 
 ```
 clFaussaire est un Faussaire
 
-POUR nIndex = 1 À 10000
-	TABLE_Clients.AjouteLigne(clFaussaire.nomComplet())
+stPersonne est une Structure
+	nomComplet est une chaîne
+	groupeSanguin est une chaîne
+	couleurPréférée est une chaîne
+	métierPratiqué est une chaîne
+FIN
+
+POUR i = 1 À 20
+
+	personneGénérée est une stPersonne
+
+	personneGénérée.nomComplet = clFaussaire.Personne.nomComplet("", Faux)
+	personneGénérée.groupeSanguin = clFaussaire.Sang.groupeSanguin()
+	personneGénérée.couleurPréférée = clFaussaire.Couleur.couleur(Faux)
+	personneGénérée.métierPratiqué = clFaussaire.Entreprise.métier
+
+	tabListePersonnes.Ajoute(personneGénérée)
+
 FIN
 ```
 
-Les captures ci-dessous vous présentent quelques utilisations possibles :
+La capture ci-dessous vous présente une utilisation possible (mais la limite, c'est votre imagination ;-)) :
 
-![Générer une liste](Documents/Screenshot_70.png)
-![Créer un persona](Documents/Screenshot_71.png)
+![Créer des personas](Documents/liste_personas.png)
 
 ## Pourquoi le "Faussaire" ?
 
