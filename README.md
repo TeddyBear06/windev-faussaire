@@ -6,7 +6,7 @@
 
 Le Faussaire est un composant WINDEV® utile pour générer des données (noms, prénoms, IBAN, etc...) pour remplir vos applications pendant les phases de développement et de test. Vous pouvez également l'utiliser pour faire des tests de resistance au stress de vos applications.
 
-Le composant est largement inspiré du package [fzaninotto/Faker](https://github.com/fzaninotto/Faker).
+Le composant est - très - largement inspiré du package [fzaninotto/Faker](https://github.com/fzaninotto/Faker).
 
 ## Comment l'utiliser ?
 
@@ -17,17 +17,16 @@ Le composant est largement inspiré du package [fzaninotto/Faker](https://github
 Exemple :
 
 ```
-clFaussaire est CFaussaire
+clFaussaire est un Faussaire
 
 POUR nIndex = 1 À 10000
-	TABLE_Clients.AjouteLigne(clFaussaire.Prénom(CFaussaire::GENRE_FÉMININ), clFaussaire.NomDeFamille())
+	TABLE_Clients.AjouteLigne(clFaussaire.nomComplet())
 FIN
 ```
 
 La capture ci-dessous vous présente quelques utilisations possibles :
 
 ![Utilisations possibles du Faussaire](Documents/Screenshot_70.png)
-![Utilisations possibles du Faussaire](Documents/Screenshot_71.png)
 
 ## Pourquoi le "Faussaire" ?
 
@@ -35,7 +34,7 @@ Je voulais rester dans - ma compréhension de - l'esprit WINDEV® en ce qui conc
 
 ## Compatibilité
 
-Le composant est généré avec WINDEV® Express 26 (je n'ai pas de licence WINDEV®... À bon entendeur :-)). 
+Le composant est généré avec WINDEV® Express 28 (je n'ai pas de licence WINDEV®... À bon entendeur :-)). 
 
 Si vous utilisez une version commerciale de WINDEV®, vous devrez récupérer le code de ce composant et le générer à nouveau avec votre WINDEV® commercial.
 
