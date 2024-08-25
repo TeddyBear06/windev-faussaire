@@ -20,22 +20,25 @@ Exemple (pour générer des [personas](https://fr.wikipedia.org/wiki/Persona)) :
 clFaussaire est un Faussaire
 
 stPersonne est une Structure
-	nomComplet est une chaîne
-	groupeSanguin est une chaîne
-	couleurPréférée est une chaîne
-	métierPratiqué est une chaîne
+    nomComplet est une chaîne
+    groupeSanguin est une chaîne
+    couleurPréférée	est une chaîne
+    métierPratiqué est une chaîne
+    société est une chaîne
 FIN
 
 POUR i = 1 À 20
 
-	personneGénérée est une stPersonne
+    personneGénérée est une stPersonne
 
-	personneGénérée.nomComplet = clFaussaire.Personne.nomComplet("", Faux)
-	personneGénérée.groupeSanguin = clFaussaire.Sang.groupeSanguin()
-	personneGénérée.couleurPréférée = clFaussaire.Couleur.couleur(Faux)
-	personneGénérée.métierPratiqué = clFaussaire.Entreprise.métier
+    personneGénérée est une stPersonne
+    personneGénérée.nomComplet = clFaussaire.Personne.nomComplet("", Faux)
+    personneGénérée.groupeSanguin = clFaussaire.Sang.groupeSanguin()
+    personneGénérée.couleurPréférée = clFaussaire.Couleur.couleur(Faux)
+    personneGénérée.métierPratiqué = clFaussaire.Entreprise.métier
+    personneGénérée.société = clFaussaire.Entreprise.nomSociété()
 
-	tabListePersonnes.Ajoute(personneGénérée)
+    tabListePersonnes.Ajoute(personneGénérée)
 
 FIN
 ```
