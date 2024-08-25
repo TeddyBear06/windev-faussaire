@@ -54,6 +54,10 @@ Le composant est généré avec WINDEV® Express 28 (je n'ai pas de licence WIND
 
 Si vous utilisez une version commerciale de WINDEV®, vous devrez récupérer le code de ce composant et le générer à nouveau avec votre WINDEV® commercial.
 
+## Soutien
+
+La réalisation de ce composant représente de nombreuses heures de travail (sur mon temps libre). Si vous, ou votre organisation, apprécie mon travail, n'hésitez pas à considérer le fait d'acheter (contribution libre entre 5€ et 495€, il suffit d'ajuster la quantité en fonction de vos moyens) ce composant sur mon lien de paiement Stripe [LFConsult (lien Stripe)](https://buy.stripe.com/9AQ5n5fOuc4n9Q4bIJ), votre nom (ou pseudo ou ce que vous souhaitez) sera affiché sur la liste des sponsors !
+
 ## Contributions
 
 Les contributions sont les bienvenues du moment qu'elles respectent l'esprit du projet.
