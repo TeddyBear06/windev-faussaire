@@ -14,6 +14,10 @@ Le composant est - très - largement inspiré du package [fzaninotto/Faker](http
 2. Ajoutez le composant à votre projet WINDEV® [documentation officielle](https://doc.pcsoft.fr/?2014006)
 3. Vous instanciez un Faussaire et voilà !
 
+Si vous préférez une vidéo, voici un lien vers une vidéo YouTube de présentation :
+
+[![Démonstration vidéo sur YouTube](Documents/youtube.png)](https://www.youtube.com/watch?v=i_MreV6-F1g)
+
 Exemple (pour générer des [personas](https://fr.wikipedia.org/wiki/Persona)) :
 
 ```
