@@ -58,6 +58,16 @@ Si vous utilisez une version commerciale de WINDEV®, vous devrez récupérer le
 
 La réalisation de ce composant représente de nombreuses heures de travail (sur mon temps libre). Si vous, ou votre organisation, apprécie mon travail, n'hésitez pas à considérer le fait d'acheter (contribution libre entre 5€ et 495€, il suffit d'ajuster la quantité en fonction de vos moyens) ce composant sur mon lien de paiement Stripe [LFConsult (lien Stripe)](https://buy.stripe.com/9AQ5n5fOuc4n9Q4bIJ), votre nom (ou pseudo ou ce que vous souhaitez) sera affiché sur la liste des sponsors !
 
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1PretnHiW4CQly953q4ogXO7"
+  publishable-key="pk_live_51L20AjHiW4CQly95R2d5dDOScrDNJgAbRtBqEdQVYv0LcNpvG8YWKRo7wNTsQVO80ODEIswrVpyjiy66EF4IFL2e00Y8LGjOoM"
+>
+</stripe-buy-button>
+
 ## Contributions
 
 Les contributions sont les bienvenues du moment qu'elles respectent l'esprit du projet.
